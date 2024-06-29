@@ -12,7 +12,7 @@
 - HTML
 - CSS
 - JavaScript
-- Git
+- Git, GitHub
 
 ## Languages:
 - Russian: Native
